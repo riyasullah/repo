@@ -34,3 +34,5 @@ def login():
         return redirect("/thankyou.html")
     else:
         return 'wrong'
+
+print("alhamthulila")
