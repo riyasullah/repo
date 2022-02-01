@@ -9,4 +9,5 @@ pyjokes==0.6.0
 PyPDF2==1.26.0
 range==1.0.0
 Werkzeug==2.0.2
-
+riyas
+afsal
